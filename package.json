@@ -1,0 +1,10 @@
+{
+  "name": "numeretti-modernized-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent single-page Numeretti website prototype.",
+  "scripts": {
+    "check": "node --check script.js",
+    "preview": "node server.mjs"
+  }
+}
