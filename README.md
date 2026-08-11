@@ -5,6 +5,7 @@ Independent, static single-page prototype created from the information published
 ## Preview
 
 ```powershell
+npm.cmd run build
 npm.cmd run preview
 ```
 
